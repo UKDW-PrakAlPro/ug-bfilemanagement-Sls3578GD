@@ -1,0 +1,15 @@
+Python Programming|John Doe|2020|Tersedia
+Data Engineering|Jane Smith|2019|Dipinjam
+Machine Learning|Andrew Ng|2021|Tersedia
+Artificial Intelligence|Stuart Russell|2018|Tersedia
+Deep Learning|Ian Goodfellow|2016|Dipinjam
+Clean Code|Robert C. Martin|2008|Tersedia
+The Pragmatic Programmer|Andrew Hunt|1999|Tersedia
+Database Systems|Raghu Ramakrishnan|2017|Dipinjam
+Computer Networks|Andrew S. Tanenbaum|2011|Tersedia
+Operating System Concepts|Abraham Silberschatz|2018|Dipinjam
+Introduction to Algorithms|Thomas H. Cormen|2009|Tersedia
+Software Engineering|Ian Sommerville|2015|Tersedia
+Big Data Analytics|Viktor Mayer-Schönberger|2013|Dipinjam
+Cyber Security Basics|Charles J. Brooks|2019|Tersedia
+Cloud Computing|Rajkumar Buyya|2020|Dipinjam
